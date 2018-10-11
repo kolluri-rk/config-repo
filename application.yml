@@ -12,5 +12,5 @@ CfConnector:
   Target: randomvalue
   
 info:
-description: Spring Cloud Samples
-url: https://github.com/spring-cloud-samples
+description: Rams Spring Cloud Samples
+url: https://github.com/kolluri-rk/config-repo
