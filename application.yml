@@ -3,3 +3,14 @@ Logging:
   LogLevel:
     Default: Warning
 AllowedHosts: "*"
+
+UseCfConnectors: 'yes' - from git
+AvailableConnectorsCount: 1
+CfConnector:
+  Type: azuresql
+  Uri: http://blah-blah/
+  Target: randomvalue
+  
+info:
+description: Spring Cloud Samples
+url: https://github.com/spring-cloud-samples
